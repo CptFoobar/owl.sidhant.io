@@ -1,0 +1,3 @@
+# Additional mode property for development/production mode
+# (Using this to avoid GA stats when in development mode)
+mode: 'development'

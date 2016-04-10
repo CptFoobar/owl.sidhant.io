@@ -1,0 +1,48 @@
+# Site settings
+title: Owl
+email: tk@sidhant.io/
+url: https://sidhant.io/owl
+description: "A Firefox add-on for making online reading comfortable."
+skills: "Soothe your eyes with a darker, more comfortable Web"
+meta_author: Sharma Sidhant
+homeurl: http://sidhant.io/
+google_analytics: UA-74123332-3
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 4bbcd5 #80B3FF
+  primary-rgb: "rgb(24,288,156)" #"128,179,255"
+  secondary: 26263b #FD6E8A
+  secondary-dark: 1e1e2f #A2122F
+
+# Footer settings
+footer:
+  copyright: Sidhant Sharma
+  social: Get Owl
+  developer: Meet The Developer
+
+social:
+  - title: firefox
+    url: https://addons.mozilla.org/en-US/firefox/addon/owl/
+  - title: github
+    url: http://github.com/tigerkid001/owl
+
+developer:
+  - title: home
+    url: http://sidhant.io/
+  - title: facebook-official
+    url: https://www.facebook.com/sidhant.sharma.012
+  - title: twitter
+    url: https://www.twitter.com/TigerKid001
+  - title: google-plus
+    url: https://plus.google.com/103325962048453263615/about
+  - title: linkedin-square
+    url: https://in.linkedin.com/in/sidhantsharma12
+  - title: github
+    url: https://github.com/tigerkid001
+  - title: firefox
+    url: https://addons.mozilla.org/en-US/firefox/user/Sidhant/
