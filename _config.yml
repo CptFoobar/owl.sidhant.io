@@ -10,7 +10,6 @@ google_analytics: UA-74123332-3
 
 # Build settings
 markdown: kramdown
-permalink: pretty
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
