@@ -1,8 +1,0 @@
----
-layout: default
-modal-id: 1
-date: 2016-04-28
-img: google_owl.png
-alt: Google with Owl enabled
-description: Google with Owl enabled
----
