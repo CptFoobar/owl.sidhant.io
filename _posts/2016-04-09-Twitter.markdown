@@ -1,8 +1,0 @@
----
-layout: default
-modal-id: 7
-date: 2016-04-01
-img: twitter_owl.png
-alt: Twitter with Owl enabled
-description: Twitter with Owl enabled
----
