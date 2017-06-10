@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 11
+date: 2016-04-03
+img: owl_panel.png
+alt: Owl Panel
+description: >
+    Owl gives you full control over its functionality with a clean and elegant drop down panel with multiple options.
+    <br />
+    The Owl panel is accessible by click the 'Owl' icon in the address bar.
+    <br />
+    You can toggle Owl, switch themes,
+category: interface
+---
