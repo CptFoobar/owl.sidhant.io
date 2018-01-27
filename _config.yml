@@ -1,6 +1,6 @@
 # Site settings
 title: Owl
-email: tk@sidhant.io/
+email: dev@sidhant.io/
 url: https://sidhant.io/owl
 description: "A Firefox add-on for making online reading comfortable."
 skills: "Soothe your eyes with a darker, more comfortable Web"
@@ -28,7 +28,7 @@ social:
   - title: firefox
     url: https://addons.mozilla.org/en-US/firefox/addon/owl/
   - title: github
-    url: http://github.com/tigerkid001/owl
+    url: http://github.com/CptFoobar/owl
 
 developer:
   - title: home
@@ -36,12 +36,12 @@ developer:
   - title: facebook-official
     url: https://www.facebook.com/sidhant.sharma.012
   - title: twitter
-    url: https://www.twitter.com/TigerKid001
+    url: https://www.twitter.com/CptFoobar
   - title: google-plus
     url: https://plus.google.com/103325962048453263615/about
   - title: linkedin-square
     url: https://in.linkedin.com/in/sidhantsharma12
   - title: github
-    url: https://github.com/tigerkid001
+    url: https://github.com/CptFoobar
   - title: firefox
     url: https://addons.mozilla.org/en-US/firefox/user/Sidhant/
